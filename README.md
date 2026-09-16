@@ -9,7 +9,7 @@
 - **Языки и архитектура:** Swift (Advanced), Clean Architecture, MVVM, VIPER, SOLID.
 - **UI/UX и интерфейс:** UIKit, SwiftUI, адаптивная вёрстка.
 - **Многопоточность и данные:** Async/Await, GCD, Combine, CoreData, SwiftData, Realm, REST API, URLSession.
-- **Инструменты:** SPM, Git, виртуализация (Hyper-V), ITSM.
+- **Инструменты:** XCode, OpenCode, Git, SPM, CocoaPod
 
 ---
 
